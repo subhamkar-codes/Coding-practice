@@ -15,6 +15,7 @@ The main languages currently covered are **C** and **Java**.
 coding-practice/
 ├── C/
 │   └── HackerRank/
+│   └── CodeChef/
 │
 ├── Java/
 │   ├── HackerRank/
