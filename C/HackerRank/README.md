@@ -1,4 +1,4 @@
-# HackerRank — C
+# HackerRank — C 
 
 Solutions to C programming problems solved while learning and practicing C.
 
