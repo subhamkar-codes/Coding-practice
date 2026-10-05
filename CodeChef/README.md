@@ -20,3 +20,5 @@ A collection of foundational Java solutions for beginner-level practice problems
    * Concept: Multi-test case loops (T) and basic multiplication (X * Y) to calculate total cost.
 8. **Chef_Plays_Ludo**
    * Concept: Multi-test case loops (T) and conditional threshold checks (X == 6) for game rules.
+9. **How_many_unattempted_problems**
+   - Concept: Basic arithmetic subtraction (X - Y) to calculate un-attempted problems from total and attempted counts.
