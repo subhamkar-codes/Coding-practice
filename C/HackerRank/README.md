@@ -16,7 +16,7 @@ Solutions to C programming problems solved while learning and practicing C funda
 | 8 | Sum of Digits of a Five Digit Number | sum_of_digits.c | Easy | Conditionals and Loops |
 | 9 | Bitwise Operators | bitwise_operators.c | Medium | Conditionals and Loops |
 | 10 | Printing Pattern Using Loops | Printing_Pattern_Using_Loops.c | Medium | Conditionals and Loops |
-
+| 11 | 1D Arrays in C | 1D_Arrays_in_C.c | Easy | Arrays and Strings |
 ## Current Focus
 
 - Strengthening C fundamentals and control structures
