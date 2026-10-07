@@ -11,6 +11,9 @@ A collection of my Java programming practice solutions as I build my foundationa
 - **Java End-of-file** (`java_end_of_file.java`): Processing continuous text streams with unknown lengths by utilizing `Scanner.hasNext()` as an EOF (End-of-File) sensor within a `while` loop.
 - **Java Static Initializer Block** (`Java_Static_Initializer_Block.java`): Computing the area of a parallelogram from breadth and height read inside a `static` block, with validation that raises `java.lang.Exception: Breadth and height must be positive` when either value is non-positive.
 - **Java Int to String** (`Java_Int_to_String.java`): Converting an integer `n` to a string representation, validated to fall within the range -100 to 100 inclusive, printing "Good job" or "Wrong answer" accordingly.
+- * **Java Date and Time** (`Java_Date_and_Time.java`): Determining the day of the week for a given Gregorian calendar date using Java's modern `java.time.LocalDate` API and extracting weekday enums.
+ 
+    
 ## 🛠️ Tech Stack & Environment
 
 - **Language:** Java
