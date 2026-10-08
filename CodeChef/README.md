@@ -29,4 +29,19 @@ A collection of foundational Java solutions for beginner-level practice problems
 12. **Off_By_One**
     * **Concept**: Integer addition combined with string concatenation in Java to format modified calculator outputs. Difficulty: 271.
 13. **Donation_Drive**
-    * **Concept**: Multi-test case loops (`T`) and subtraction (`N - X`) to find remaining blood donations needed. Difficulty: 272.
+    * **Concept**: Multi-test case loops (`T`) and subtraction (`N - X`) to find remaining blood donations needed.
+14. **Kitchen_Timings**
+    * **Concept**: Multi-test case loops (`T`) and basic subtraction (`Y - X`) to calculate hours worked. Difficulty: 273.
+15. **IPL_Ticket_Rush**
+    * **Concept**: Multi-test case loops (`T`) and conditional logic (`max(0, N - M)`) to find students without tickets. Difficulty: 273.
+16. **Audible_Range**
+    * **Concept**: Multi-test case loops (`T`) and range checking (`67 <= X <= 45000`) using `long` to handle larger values. Difficulty: 279.
+17. **Puzzle_Hunt**
+    * **Concept**: Conditional range check (`6 <= N <= 8`) to determine team eligibility. Difficulty: 279.
+18. **Reach_on_Time**
+    * **Concept**: Multi-test case loops (`T`) and a simple threshold check (`X >= 30`) to determine on-time arrival. Difficulty: 279.
+19. **Bone_Appetit**
+    * **Concept**: Multi-variable arithmetic (`m*x + n*y`) across multiple inputs to calculate total treats.
+    *  Difficulty: 280.
+
+  
