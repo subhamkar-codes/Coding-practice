@@ -18,6 +18,8 @@ Solutions to C programming problems solved while learning and practicing C funda
 | 10 | Printing Pattern Using Loops | `Printing_Pattern_Using_Loops.c` | Medium | Conditionals and Loops |
 | 11 | 1D Arrays in C | `1D_Arrays_in_C.c` | Easy | Arrays and Strings |
 | 12 | Array Reversal | `Array_Reversal.c` | Medium | Arrays and Strings |
+| 13 | Digit Frequency | Digit_Frequency.c | Medium | Arrays and Strings |
+| 14 | Printing Tokens | Printing_Tokens.c | Medium | Arrays and Strings |
 
 ## 🎯 Current Focus
 
