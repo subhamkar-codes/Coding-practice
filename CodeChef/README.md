@@ -42,6 +42,9 @@ A collection of foundational Java solutions for beginner-level practice problems
     * **Concept**: Multi-test case loops (`T`) and a simple threshold check (`X >= 30`) to determine on-time arrival. Difficulty: 279.
 19. **Bone_Appetit**
     * **Concept**: Multi-variable arithmetic (`m*x + n*y`) across multiple inputs to calculate total treats.
-    *  Difficulty: 280.
+    * 20. **Who_is_taller**
+    * **Concept**: Multi-test case loops (`T`) and conditional comparison (`X > Y`) to decide who is taller. Difficulty: 281.
+21. **Reach_the_Target**
+    * **Concept**: Multi-test case loops (`T`) and basic subtraction (`X - Y`) to find the runs still needed. Difficulty: 280.
 
   
