@@ -18,9 +18,9 @@ Solutions to C programming problems solved while learning and practicing C funda
 | 10 | Printing Pattern Using Loops | `Printing_Pattern_Using_Loops.c` | Medium | Conditionals and Loops |
 | 11 | 1D Arrays in C | `1D_Arrays_in_C.c` | Easy | Arrays and Strings |
 | 12 | Array Reversal | `Array_Reversal.c` | Medium | Arrays and Strings |
-| 13 | Digit Frequency | Digit_Frequency.c | Medium | Arrays and Strings |
-| 14 | Printing Tokens | Printing_Tokens.c | Medium | Arrays and Strings |
-| 15 | `Dynamic_Array_in_C.c` | Dynamic Array in C | Medium | Arrays and Strings (dynamic memory: `calloc`, `realloc`, `int **`) |
+| 13 | Digit Frequency | `Digit_Frequency.c` | Medium | Arrays and Strings |
+| 14 | Printing Tokens | `Printing_Tokens.c` | Medium | Arrays and Strings |
+| 15 |Dynamic Array in C |  `Dynamic_Array_in_C.c` | Medium | Arrays and Strings (dynamic memory: `calloc`, `realloc`, `int **`) |
 ## 🎯 Current Focus
 
 * Strengthening C fundamentals and control structures
