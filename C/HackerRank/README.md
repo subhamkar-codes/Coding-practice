@@ -20,7 +20,7 @@ Solutions to C programming problems solved while learning and practicing C funda
 | 12 | Array Reversal | `Array_Reversal.c` | Medium | Arrays and Strings |
 | 13 | Digit Frequency | Digit_Frequency.c | Medium | Arrays and Strings |
 | 14 | Printing Tokens | Printing_Tokens.c | Medium | Arrays and Strings |
-
+| 15 | `Dynamic_Array_in_C.c` | Dynamic Array in C | Medium | Arrays and Strings (dynamic memory: `calloc`, `realloc`, `int **`) |
 ## 🎯 Current Focus
 
 * Strengthening C fundamentals and control structures
