@@ -14,6 +14,7 @@ A collection of my Java programming practice solutions as I build foundational c
 * 📅 **Java Date and Time** (`Java_Date_and_Time.java`): Determining the day of the week for a given Gregorian calendar date using Java's modern `java.time.LocalDate` API.
 * 💱 **Java Currency Formatter** (`Java_Currency_Formatter.java`): Formatting numerical double values into regional currency representations (US, India, China, France) using `NumberFormat` and customized `Locale` configurations.
 * 📝 **Java Strings Introduction** (`Java_Strings_Introduction.java`): Performing basic string operations including length calculation, lexicographical comparison using `compareTo()`, and first-letter capitalization.
+* - 🔤 **Java Substring** (`Java_Substring.java`): Extracting a portion of a string between a start index (inclusive) and an end index (exclusive) using `substring()`.
 
 ---
 
