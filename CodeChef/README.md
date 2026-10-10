@@ -46,5 +46,8 @@ A collection of foundational Java solutions for beginner-level practice problems
     * **Concept**: Multi-test case loops (`T`) and conditional comparison (`X > Y`) to decide who is taller. Difficulty: 281.
 21. **Reach_the_Target**
     * **Concept**: Multi-test case loops (`T`) and basic subtraction (`X - Y`) to find the runs still needed. Difficulty: ___.
-
+22. **two_thousand**
+    * **Concept**: Basic multiplication (`N * 4`) to convert Rs. 2000 notes into Rs. 500 notes. Difficulty: 284.
+23. **Best_of_Two**
+    * **Concept**: Multi-test case loops (`T`) and conditional comparison to find the higher of two scores. Difficulty: 284.
   
