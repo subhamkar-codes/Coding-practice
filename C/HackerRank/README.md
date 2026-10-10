@@ -21,6 +21,7 @@ Solutions to C programming problems solved while learning and practicing C funda
 | 13 | Digit Frequency | `Digit_Frequency.c` | Medium | Arrays and Strings |
 | 14 | Printing Tokens | `Printing_Tokens.c` | Medium | Arrays and Strings |
 | 15 |Dynamic Array in C |  `Dynamic_Array_in_C.c` | Medium | Arrays and Strings (dynamic memory: `calloc`, `realloc`, `int **`) |
+| 16 | Calculate the Nth term | `Calculate_the_Nth_term.c` | Easy | Functions (recursion) |
 ## 🎯 Current Focus
 
 * Strengthening C fundamentals and control structures
