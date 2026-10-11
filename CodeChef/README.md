@@ -50,4 +50,7 @@ A collection of foundational Java solutions for beginner-level practice problems
     * **Concept**: Basic multiplication (`N * 4`) to convert Rs. 2000 notes into Rs. 500 notes. Difficulty: 284.
 23. **Best_of_Two**
     * **Concept**: Multi-test case loops (`T`) and conditional comparison to find the higher of two scores. Difficulty: 284.
-  
+24. **Roller_Coaster**
+    * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= H`) to decide ride eligibility. Difficulty: 289.
+25. **Candy_Division**
+    * **Concept**: Multi-test case loops (`T`) and the modulus operator (`N % 3 == 0`) to check for an equal split among three friends. Difficulty: 289.
