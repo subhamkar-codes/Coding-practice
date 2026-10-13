@@ -54,3 +54,5 @@ A collection of foundational Java solutions for beginner-level practice problems
     * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= H`) to decide ride eligibility. Difficulty: 289.
 25. **Candy_Division**
     * **Concept**: Multi-test case loops (`T`) and the modulus operator (`N % 3 == 0`) to check for an equal split among three friends. Difficulty: 289.
+26. **Chef_On_Date**
+    * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= Y`) to see whether Chef's money covers the bill. Difficulty: 294.
