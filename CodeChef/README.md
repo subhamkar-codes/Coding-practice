@@ -1,58 +1,27 @@
-# CodeChef Practice Solutions - Java ☕
+# ☕ Java HackerRank Solutions 🚀
 
-A collection of foundational Java solutions for beginner-level practice problems.
+A collection of my Java programming practice solutions as I build foundational coding skills, master control structures, and work through algorithmic challenges.
 
-## 📊 Solved Problems
+## 📂 Project Structure
 
-1. **p1 - Cricket World Cup Qualifier**
-   * **Concept**: Conditional checks (`if-else`). Determines if a team qualifies by scoring 12 or more points.
-2. **p2 - Lucky Seven**
-   * **Concept**: String indexing and character extraction (finding the 7th letter of a 10-character string).
-3. **p3 - Clear Day**
-   * **Concept**: Basic arithmetic subtraction (`7 - X - Y`) to calculate clear days in a week.
-4. **p4 - Double Rent**
-   * **Concept**: Simple multiplication logic (`X * 2`).
-5. **p5 - Saving Taxes**
-   * **Concept**: Multi-test case loops (`T`) and conditional subtraction (`X - Y`).
-6. **Masterchef_finals**
-   * **Concept**: Multi-test case loops (`T`) and boundary condition checks (`X <= 10`) to determine top 10 qualification.
-7. **Biryani_classes**
-   * **Concept**: Multi-test case loops (`T`) and basic multiplication (`X * Y`) to calculate total cost.
-8. **Chef_Plays_Ludo**
-   * **Concept**: Multi-test case loops (`T`) and conditional threshold checks (`X == 6`) for game rules.
-9. **How_many_unattempted_problems**
-   * **Concept**: Basic arithmetic subtraction (`X - Y`) to calculate un-attempted problems from total and attempted counts.
-10. **Determine_the_Score**
-    * **Concept**: Multi-test case loops (`T`) and arithmetic (points per test case $\times$ test cases passed) to calculate Chef's score. Difficulty: 267.
-11. **problem_404_Not_Found**
-    * **Concept**: Conditional evaluation (`if-else`) to check HTTP status codes and determine website response. Difficulty: 267.
-12. **Off_By_One**
-    * **Concept**: Integer addition combined with string concatenation in Java to format modified calculator outputs. Difficulty: 271.
-13. **Donation_Drive**
-    * **Concept**: Multi-test case loops (`T`) and subtraction (`N - X`) to find remaining blood donations needed.
-14. **Kitchen_Timings**
-    * **Concept**: Multi-test case loops (`T`) and basic subtraction (`Y - X`) to calculate hours worked. Difficulty: 273.
-15. **IPL_Ticket_Rush**
-    * **Concept**: Multi-test case loops (`T`) and conditional logic (`max(0, N - M)`) to find students without tickets. Difficulty: 273.
-16. **Audible_Range**
-    * **Concept**: Multi-test case loops (`T`) and range checking (`67 <= X <= 45000`) using `long` to handle larger values. Difficulty: 279.
-17. **Puzzle_Hunt**
-    * **Concept**: Conditional range check (`6 <= N <= 8`) to determine team eligibility. Difficulty: 279.
-18. **Reach_on_Time**
-    * **Concept**: Multi-test case loops (`T`) and a simple threshold check (`X >= 30`) to determine on-time arrival. Difficulty: 279.
-19. **Bone_Appetit**
-    * **Concept**: Multi-variable arithmetic (`m*x + n*y`) across multiple inputs to calculate total treats.
-20.    **Who_is_taller**
-    * **Concept**: Multi-test case loops (`T`) and conditional comparison (`X > Y`) to decide who is taller. Difficulty: 281.
-21. **Reach_the_Target**
-    * **Concept**: Multi-test case loops (`T`) and basic subtraction (`X - Y`) to find the runs still needed. Difficulty: ___.
-22. **two_thousand**
-    * **Concept**: Basic multiplication (`N * 4`) to convert Rs. 2000 notes into Rs. 500 notes. Difficulty: 284.
-23. **Best_of_Two**
-    * **Concept**: Multi-test case loops (`T`) and conditional comparison to find the higher of two scores. Difficulty: 284.
-24. **Roller_Coaster**
-    * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= H`) to decide ride eligibility. Difficulty: 289.
-25. **Candy_Division**
-    * **Concept**: Multi-test case loops (`T`) and the modulus operator (`N % 3 == 0`) to check for an equal split among three friends. Difficulty: 289.
-26. **Chef_On_Date**
-    * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= Y`) to see whether Chef's money covers the bill. Difficulty: 294.
+- 🧮 **P1 – P4:** Basic Java syntax, conditional logic, and handling standard input/output using `Scanner`.
+- 🔢 **P5 & P6:** Multi-test-case pattern handling using `T` queries.
+- 🔁 **Java Loops II** (`java_loop_2.java`): Generating mathematical power sequences using nested loops and running totals.
+- 📊 **Java Datatypes** (`java_datatypes.java`): Evaluating primitive data type boundaries (`byte`, `short`, `int`, `long`) using try-catch exception handling and built-in `MIN` / `MAX` constant values.
+- 📄 **Java End-of-file** (`java_end_of_file.java`): Processing continuous text streams with unknown lengths using `Scanner.hasNext()` as an EOF sensor within a while loop.
+- 📐 **Java Static Initializer Block** (`Java_Static_Initializer_Block.java`): Computing the area of a parallelogram from breadth and height read inside a static block with non-positive validation.
+- 🔄 **Java Int to String** (`Java_Int_to_String.java`): Converting an integer `n` into a string representation, validated within the range -100 to 100 inclusive.
+- 📅 **Java Date and Time** (`Java_Date_and_Time.java`): Determining the day of the week for a given Gregorian calendar date using Java's modern `java.time.LocalDate` API.
+- 💱 **Java Currency Formatter** (`Java_Currency_Formatter.java`): Formatting numerical double values into regional currency representations (US, India, China, France) using `NumberFormat` and customized `Locale` configurations.
+- 🔤 **Java Strings Introduction** (`Java_Strings_Introduction.java`): Performing basic string operations including length calculation, lexicographical comparison using `compareTo()`, and first-letter capitalization.
+  - ✂️ **Java Substring** (`Java_Substring.java`): Extracting a portion of a string between a start index (inclusive) and an end index (exclusive) using `substring()`.
+  - 🔠 **Java Substring Comparisons** (`Java_Substring_Comparisons.java`): Finding the lexicographically smallest and largest substrings of length `k` using a sliding window and `compareTo()`.
+  - 🔄 **Java String Reverse** (`Java_String_Reverse.java`): Checking whether a string is a palindrome by comparing characters from both ends using two pointers and `charAt()`.
+
+## 🛠️ Tech Stack & Environment
+
+- 💻 **Language:** Java 7 / Java 8 / Java 15
+- ⚙️ **IDE:** IntelliJ IDEA
+- 🧠 **Concepts Practiced:** Strings, loops, conditionals, exception handling, date/time APIs, formatting, and two-pointer techniques.
+
+*Built while balancing college coursework and daily coding marathons.* 💪
