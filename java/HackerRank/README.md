@@ -17,11 +17,11 @@ A collection of my Java programming practice solutions as I build foundational c
   - ✂️ **Java Substring** (`Java_Substring.java`): Extracting a portion of a string between a start index (inclusive) and an end index (exclusive) using `substring()`.
   - 🔠 **Java Substring Comparisons** (`Java_Substring_Comparisons.java`): Finding the lexicographically smallest and largest substrings of length `k` using a sliding window and `compareTo()`.
   - 🔄 **Java String Reverse** (`Java_String_Reverse.java`): Checking whether a string is a palindrome by comparing characters from both ends using two pointers and `charAt()`.
-
+- 🧮 **Java Anagrams** (`Java_Anagrams.java`): Checking whether two strings are case-insensitive anagrams using a 26-slot frequency array (increment for one string, decrement for the other).
 ## 🛠️ Tech Stack & Environment
 
 - 💻 **Language:** Java 7 / Java 8 / Java 15
 - ⚙️ **IDE:** IntelliJ IDEA
-- 🧠 **Concepts Practiced:** Strings, loops, conditionals, exception handling, date/time APIs, formatting, and two-pointer techniques.
+- 🧠 **Concepts Practiced**: Strings, loops, conditionals, exception handling, date/time APIs, formatting, two-pointer techniques, and frequency arrays.
 
 *Built while balancing college coursework and daily coding marathons.* 💪
