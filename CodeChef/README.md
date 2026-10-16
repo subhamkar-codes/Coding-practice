@@ -2,103 +2,107 @@
 
 A collection of foundational Java solutions for beginner-level practice problems.
 
-## Solved Problems
+## 📊 Solved Problems
 
-1. **Cricket World Cup Qualifier**[cite: 1]
-   - **Concept**: Conditional evaluation (if-else). Determine if a team qualifies by scoring 12 or more points.[cite: 1]
+1. **p1 - Cricket World Cup Qualifier**
+    * **Concept**: Conditional checks (`if-else`). Determines if a team qualifies by scoring 12 or more points.
 
-2. **Lucky Seven**[cite: 1]
-   - **Concept**: String indexing and character extraction.[cite: 1]
+2. **p2 - Lucky Seven**
+    * **Concept**: String indexing and character extraction (finding the 7th letter of a 10-character string).
 
-3. **Clear Day**[cite: 1]
-   - **Concept**: Basic arithmetic subtraction (7 - X).[cite: 1]
+3. **p3 - Clear Day**
+    * **Concept**: Basic arithmetic subtraction (`7 - X - Y`) to calculate clear days in a week.
 
-4. **Double Rent**[cite: 1]
-   - **Concept**: Simple multiplication (X * 2).[cite: 1]
+4. **p4 - Double Rent**
+    * **Concept**: Simple multiplication logic (`X * 2`).
 
-5. **Battery Health**[cite: 1]
-   - **Concept**: Relational operators (>=) and conditional valuation (if-else).[cite: 1, 6]
+5. **p5 - Saving Taxes**
+    * **Concept**: Multi-test case loops (`T`) and conditional subtraction (`X - Y`).
 
-6. **Tom and Jerry Chase**[cite: 1]
-   - **Concept**: Relational operators and boundary checks (>=).[cite: 1, 4]
+6. **Masterchef_finals**
+    * **Concept**: Multi-test case loops (`T`) and boundary condition checks (`X <= 10`) to determine top 10 qualification.
 
-7. **Ageing**[cite: 1]
-   - **Concept**: Basic math loops and multiplication (-).[cite: 1, 3]
+7. **Biryani_classes**
+    * **Concept**: Multi-test case loops (`T`) and basic multiplication (`X * Y`) to calculate total cost.
 
-8. **Chef Plays Ludo**[cite: 1]
-   - **Concept**: Relational operators and conditional threshold checks (==).[cite: 1]
+8. **Chef_Plays_Ludo**
+    * **Concept**: Multi-test case loops (`T`) and conditional threshold checks (`X == 6`) for game rules.
 
-9. **Sum of Digits of a Five Digit Number**[cite: 1]
-   - **Concept**: Subtraction (%) to calculate uncorrupted problem.[cite: 1]
+9. **How_many_unattempted_problems**
+    * **Concept**: Basic arithmetic subtraction (`X - Y`) to calculate un-attempted problems from total and attempted counts.
 
-10. **Criterion_the_Score**[cite: 1]
-    - **Concept**: Basic math loops and arithmetic to calculate Chef's score. Difficulty: 247.[cite: 1]
+10. **Determine_the_Score**
+    * **Concept**: Multi-test case loops (`T`) and arithmetic (points per test case × test cases passed) to calculate Chef's score. Difficulty: 267.
 
-11. **Problem_Still_Found**[cite: 1]
-    - **Concept**: Conditional evaluation (>=) to check HTP status codes. Difficulty: 247.[cite: 1]
+11. **problem_404_Not_Found**
+    * **Concept**: Conditional evaluation (`if-else`) to check HTTP status codes and determine website response. Difficulty: 267.
 
-12. **Off_By_One**[cite: 1]
-    - **Concept**: Integer addition and string concatenation to format modified calculator outputs. Difficulty: 255.[cite: 1]
+12. **Off_By_One**
+    * **Concept**: Integer addition combined with string concatenation in Java to format modified calculator outputs. Difficulty: 271.
 
-13. **Donation_Drive**[cite: 1]
-    - **Concept**: Relational operators and subtraction (-) to find remaining donation needed.[cite: 1]
+13. **Donation_Drive**
+    * **Concept**: Multi-test case loops (`T`) and subtraction (`N - X`) to find remaining blood donations needed.
 
-14. **Kitchen_Timings**[cite: 1]
-    - **Concept**: Relational operators and subtraction (-) to calculate hours worked. Difficulty: 271.[cite: 1]
+14. **Kitchen_Timings**
+    * **Concept**: Multi-test case loops (`T`) and basic subtraction (`Y - X`) to calculate hours worked. Difficulty: 273.
 
-15. **Ticket_Fine**[cite: 1]
-    - **Concept**: Relational operators and "==, -" to find violators without tickets. Difficulty: 271.[cite: 1]
+15. **IPL_Ticket_Rush**
+    * **Concept**: Multi-test case loops (`T`) and conditional logic (`max(0, N - M)`) to find students without tickets. Difficulty: 273.
 
-16. **Audible_Range**[cite: 1]
-    - **Concept**: Range checking using "&&" to handle integer values. Difficulty: 274.[cite: 1]
+16. **Audible_Range**
+    * **Concept**: Multi-test case loops (`T`) and range checking (`67 <= X <= 45000`) using `long` to handle larger values. Difficulty: 279.
 
-17. **Candy_Division**[cite: 1]
-    - **Concept**: Conditional range checking ("<=") to determine team eligibility. Difficulty: 275.[cite: 1]
+17. **Puzzle_Hunt**
+    * **Concept**: Conditional range check (`6 <= N <= 8`) to determine team eligibility. Difficulty: 279.
 
-18. **Reach_on_Time**[cite: 1]
-    - **Concept**: Relational operators and threshold checking (">=") to determine on-time arrival. Difficulty: 274.[cite: 1]
+18. **Reach_on_Time**
+    * **Concept**: Multi-test case loops (`T`) and a simple threshold check (`X >= 30`) to determine on-time arrival. Difficulty: 279.
 
-19. **Pass_The_Exam**[cite: 1]
-    - **Concept**: Relational variable arithmetic (">=") to calculate total treats.[cite: 1]
+19. **Bone_Appetit**
+    * **Concept**: Multi-variable arithmetic (`m*x + n*y`) across multiple inputs to calculate total treats. Difficulty: 280.
 
-20. **Who_is_taller**[cite: 1]
-    - **Concept**: Relational operators and conditional comparison (">") to determine who is taller. Difficulty: 281.[cite: 1]
+20. **Who_is_taller**
+    * **Concept**: Multi-test case loops (`T`) and conditional comparison (`X > Y`) to decide who is taller. Difficulty: 281.
 
-21. **Reach_the_Target**[cite: 1]
-    - **Concept**: Relational operators and subtraction ("-") to find the runs still needed.[cite: 1]
+21. **Reach_the_Target**
+    * **Concept**: Multi-test case loops (`T`) and basic subtraction (`X - Y`) to find the runs still needed.
 
-22. **Tom_and_Jerry**[cite: 1]
-    - **Concept**: Multi-liberation (">") to convert KILOMETERS into METERS. Difficulty: 286.[cite: 1]
+22. **two_thousand**
+    * **Concept**: Basic multiplication (`N * 4`) to convert Rs. 2000 notes into Rs. 500 notes. Difficulty: 284.
 
-23. **Rank_of_Team**[cite: 1]
-    - **Concept**: Relational operators and conditional comparison to find the higher of two scores. Difficulty: 283.[cite: 1]
+23. **Best_of_Two**
+    * **Concept**: Multi-test case loops (`T`) and conditional comparison to find the higher of two scores. Difficulty: 284.
 
-24. **Roller_Coaster**[cite: 1]
-    - **Concept**: Relational operators and threshold checking (">=") to determine ride eligibility. Difficulty: 284.[cite: 1]
+24. **Roller_Coaster**
+    * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= H`) to determine ride eligibility. Difficulty: 284.
 
-25. **Candy_Division**[cite: 1]
-    - **Concept**: Relational operators and the modulo operator ("% != 0") to check for an equal split among three friends. Difficulty: 289.[cite: 1, 7]
+25. **Candy_Division**
+    * **Concept**: Multi-test case loops (`T`) and the modulus operator (`N % 3 == 0`) to check for an equal split among three friends. Difficulty: 289.
 
-26. **Chef_On_Date**[cite: 1]
-    - **Concept**: Relational operators and threshold checking ("<=") to determine whether Chef's money covers the bill. Difficulty: 294.[cite: 1]
+26. **Chef_On_Date**
+    * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= Y`) to see whether Chef's money covers the bill. Difficulty: 294.
 
-27. **Parity**[cite: 1]
-    - **Concept**: Relational operators and the modulo operator ("% 2 == 0") to check whether a number of chocolates can be divided equally between two peoples. Difficulty: 297.[cite: 1, 7]
+27. **Parity**
+    * **Concept**: Multi-test case loops (`T`) and the modulus operator (`% 2 == 0`) to check whether chocolates can be divided equally between two people. Difficulty: 297.
 
-28. **Total_Prize_Money**[cite: 1]
-    - **Concept**: Relational operators and arithmetic ("* 10 + * 90") to calculate the total prize money awarded to the top 10 participants and the next 40 participants. Difficulty: 294.[cite: 1]
+28. **Total_Prize_Money**
+    * **Concept**: Basic arithmetic to calculate the total prize money awarded to the top 10 participants and the next 40 participants. Difficulty: 294.
 
 29. **Counting_Words**
-   - **Concept**: Relational operators and arithmetic ("N * M") to calculate the total number of words in a book. Difficulty: 296
+    * **Concept**: Multi-test case loops (`T`) and basic multiplication (`N * M`) to calculate the total number of words in a book. Difficulty: 296.
 
 30. **Battery_Health**
-   - **Concept**: Relational operators and conditional evaluation (if-else) to check if iPhone battery health is optimal (>= 80%). Difficulty: 296
+    * **Concept**: Multi-test case loops (`T`) and a threshold check (`X >= 80`) to see whether the battery is in optimal condition. Difficulty: 296.
 
 31. **Tom_and_Jerry_Chase**
-   - **Concept**: Relational operators and boundary checks (A >= B) to check if Tom catches Jerry. Difficulty: 296
+    * **Concept**: Relational operators and boundary checks (`A >= B`) to check if Tom catches Jerry. Difficulty: 296.
 
 32. **Ageing**
-   - **Concept**: Basic math loop, subtraction, and addition to calculate Chefina's age relative to Chef. Difficulty: 299
+    * **Concept**: Basic math (loop, subtraction and addition) to calculate Chefina's age relative to Chef. Difficulty: 299.
+
+33. **Right_There**
+    * **Concept**: Multi-test case loops (`T`) and a capacity check (`N <= X`) to decide whether Chef can host the party. Difficulty: 299.
 
 ---
-Displaying basic fundamentals and problems of a clear skills balancing college coursework and coding practice.
+
+Built while balancing college coursework and daily coding practice.
