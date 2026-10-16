@@ -18,6 +18,7 @@ A collection of my Java programming practice solutions as I build foundational c
   - 🔠 **Java Substring Comparisons** (`Java_Substring_Comparisons.java`): Finding the lexicographically smallest and largest substrings of length `k` using a sliding window and `compareTo()`.
   - 🔄 **Java String Reverse** (`Java_String_Reverse.java`): Checking whether a string is a palindrome by comparing characters from both ends using two pointers and `charAt()`.
 - 🧮 **Java Anagrams** (`Java_Anagrams.java`): Checking whether two strings are case-insensitive anagrams using a 26-slot frequency array (increment for one string, decrement for the other).
+- 🧩 **Java String Tokens** (`Java_String_Tokens.java`): Splitting a string into alphabetic tokens using `split()` with a regular expression (`[^a-zA-Z]+`) and handling empty or whitespace-only input.
 ## 🛠️ Tech Stack & Environment
 
 - 💻 **Language:** Java 7 / Java 8 / Java 15
