@@ -102,7 +102,9 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 33. **Right_There**
     * **Concept**: Multi-test case loops (`T`) and a capacity check (`N <= X`) to decide whether Chef can host the party. Difficulty: 299.
-
+   
+34. **Second_Max_of_Three_Numbers**
+    * **Concept**: Multi-test case loops (`N` triples) and compound conditions (`&&`, `||`) to find the middle value of three distinct integers. Difficulty: 300.
 ---
 
 Built while balancing college coursework and daily coding practice.
