@@ -105,6 +105,8 @@ A collection of foundational Java solutions for beginner-level practice problems
    
 34. **Second_Max_of_Three_Numbers**
     * **Concept**: Multi-test case loops (`N` triples) and compound conditions (`&&`, `||`) to find the middle value of three distinct integers. Difficulty: 300.
+35. **Bull_or_Bear**
+    * **Concept**: Multi-test case loops (`T`) and three-way comparison (`X == Y`, `X > Y`, else) to determine profit, loss, or neutral deal. Difficulty: 300.
 ---
 
 Built while balancing college coursework and daily coding practice.
