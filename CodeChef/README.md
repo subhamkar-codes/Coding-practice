@@ -109,6 +109,10 @@ A collection of foundational Java solutions for beginner-level practice problems
     * **Concept**: Multi-test case loops (`T`) and three-way comparison (`X == Y`, `X > Y`, else) to determine profit, loss, or neutral deal. Difficulty: 300.
 36. **Four_Tickets**
     * Concept: Multi-test case loops (`T`) and a cost threshold check (`X*4 <= 1000`) to determine whether four friends can afford the concert. Difficulty: 302.
+37. **ChairsRequirement**
+    * Concept: Multi-test case loops (`T`) and a conditional subtraction (`max(0, X - Y)`) to find the minimum extra chairs needed. Difficulty: 305.
+38. **ChefAndDonation**
+    * Concept: Multi-test case loops (`T`) and basic subtraction (`Y - X`) to calculate the donation amount, given `Y > X`. Difficulty: 305.
 ---
 
 Built while balancing college coursework and daily coding practice.
