@@ -113,6 +113,8 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Multi-test case loops (`T`) and a conditional subtraction (`max(0, X - Y)`) to find the minimum extra chairs needed. Difficulty: 305.
 38. **ChefAndDonation**
     * Concept: Multi-test case loops (`T`) and basic subtraction (`Y - X`) to calculate the donation amount, given `Y > X`. Difficulty: 305.
+39. **SumIt**
+    * Concept: Multi-test case loops (`T`) and an equality check (`A + B == C`) to verify whether Alice's sum is correct. Difficulty: 308.
 ---
 
 Built while balancing college coursework and daily coding practice.
