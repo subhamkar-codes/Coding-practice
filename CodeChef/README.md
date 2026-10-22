@@ -115,6 +115,10 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Multi-test case loops (`T`) and basic subtraction (`Y - X`) to calculate the donation amount, given `Y > X`. Difficulty: 305.
 39. **SumIt**
     * Concept: Multi-test case loops (`T`) and an equality check (`A + B == C`) to verify whether Alice's sum is correct. Difficulty: 308.
+40. **GetSubscription**
+    * Concept: Multi-test case loops (`T`) and a threshold check (`X > 30`) to decide whether a meeting needs a paid subscription. Difficulty: 315.
+41. **MessivsRonaldo**
+    * Concept: Weighted arithmetic (`2*goals + assists`) for both players and a three-way comparison to find the higher scorer or a tie. Difficulty: 316.
 ---
 
 Built while balancing college coursework and daily coding practice.
