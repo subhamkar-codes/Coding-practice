@@ -119,6 +119,10 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Multi-test case loops (`T`) and a threshold check (`X > 30`) to decide whether a meeting needs a paid subscription. Difficulty: 315.
 41. **MessivsRonaldo**
     * Concept: Weighted arithmetic (`2*goals + assists`) for both players and a three-way comparison to find the higher scorer or a tie. Difficulty: 316.
+42. **WaitingTime**
+    * Concept: Multi-test case loops (`T`) and arithmetic (`7*K - X`) to convert weeks into days and find the remaining days to wait. Difficulty: 319.
+43. **OctoberMarathon**
+    * Concept: Range-based `if / else if / else` chain (`< 3`, `>= 3 && < 6`, else) to decide which medal a finish time earns. Difficulty: 319.
 ---
 
 Built while balancing college coursework and daily coding practice.
