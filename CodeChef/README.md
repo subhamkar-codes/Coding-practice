@@ -123,6 +123,11 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Multi-test case loops (`T`) and arithmetic (`7*K - X`) to convert weeks into days and find the remaining days to wait. Difficulty: 319.
 43. **OctoberMarathon**
     * Concept: Range-based `if / else if / else` chain (`< 3`, `>= 3 && < 6`, else) to decide which medal a finish time earns. Difficulty: 319.
+44. **ManaPoints**
+    * Concept: Multi-test case loops (`T`) and integer division (`Y / X`) to find the maximum number of special attacks affordable with the available mana. Difficulty: 327.
+45. Just One More Episode**
+   * **Concept:** Conditional statements and comparison operators to determine whether Chef can finish a 24-minute episode strictly before the exam starts. Print `YES` if `X > 24`, otherwise print `NO`.
+   * **Difficulty:** 320
 ---
 
 Built while balancing college coursework and daily coding practice.
