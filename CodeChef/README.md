@@ -128,6 +128,16 @@ A collection of foundational Java solutions for beginner-level practice problems
 45. Just One More Episode**
    * **Concept:** Conditional statements and comparison operators to determine whether Chef can finish a 24-minute episode strictly before the exam starts. Print `YES` if `X > 24`, otherwise print `NO`.
    * **Difficulty:** 320
+46. **RainInChefland**
+    * Concept: Multi-test case loops (`T`) and a three-range `if / else if / else` chain (`< 3`, `3 to < 7`, else) to classify rainfall. Difficulty: 328.
+47. **Bidding**
+    * Concept: Multi-test case loops (`T`) and compound conditions (`&&`) to find the largest of three distinct bids. Difficulty: 330.
+48. **OverspeedingFine**
+    * Concept: Multi-test case loops (`T`) and range checks with strict and inclusive boundaries (`<= 70`, `> 70 && <= 100`, else) to pick the fine. Difficulty: 335.
+49. **ChessTime**
+    * Concept: Multi-test case loops (`T`) and a unit conversion (`hours * 3`) to find how many 20-minute games fit in the available time. Difficulty: 337.
+50. PassesForFair
+    * Concept: Multi-test case loops (`T`) and a comparison (`N < K`) to determine whether Chef has collected enough passes for himself and all `N` friends. Difficulty: 342.
 ---
 
 Built while balancing college coursework and daily coding practice.
