@@ -138,6 +138,8 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Multi-test case loops (`T`) and a unit conversion (`hours * 3`) to find how many 20-minute games fit in the available time. Difficulty: 337.
 50. PassesForFair
     * Concept: Multi-test case loops (`T`) and a comparison (`N < K`) to determine whether Chef has collected enough passes for himself and all `N` friends. Difficulty: 342.
+51. **ReadPages**
+    * Concept: Multi-test case loops (`T`) and multiplication with a comparison (`X * Y >= N`) to check whether Chef can finish the book in the given days. Difficulty: 343.
 ---
 
 Built while balancing college coursework and daily coding practice.
