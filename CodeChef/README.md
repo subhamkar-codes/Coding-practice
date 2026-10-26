@@ -125,7 +125,7 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Range-based `if / else if / else` chain (`< 3`, `>= 3 && < 6`, else) to decide which medal a finish time earns. Difficulty: 319.
 44. **ManaPoints**
     * Concept: Multi-test case loops (`T`) and integer division (`Y / X`) to find the maximum number of special attacks affordable with the available mana. Difficulty: 327.
-45. Just One More Episode**
+45. **Just One More Episode**
    * **Concept:** Conditional statements and comparison operators to determine whether Chef can finish a 24-minute episode strictly before the exam starts. Print `YES` if `X > 24`, otherwise print `NO`.
    * **Difficulty:** 320
 46. **RainInChefland**
@@ -140,6 +140,10 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Multi-test case loops (`T`) and a comparison (`N < K`) to determine whether Chef has collected enough passes for himself and all `N` friends. Difficulty: 342.
 51. **ReadPages**
     * Concept: Multi-test case loops (`T`) and multiplication with a comparison (`X * Y >= N`) to check whether Chef can finish the book in the given days. Difficulty: 343.
+52. **CoupleGame**
+    * Concept: Multi-test case loops (`T`) and subtraction (`B - G`) to find how many boys are left without a partner. Difficulty: 347.
+53. **AirQualityIndex**
+    * Concept: A strict-boundary comparison (`X < 100`) to decide whether the AQI is within limits. Difficulty: 347.   
 ---
 
 Built while balancing college coursework and daily coding practice.
