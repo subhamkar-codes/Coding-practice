@@ -144,6 +144,26 @@ A collection of foundational Java solutions for beginner-level practice problems
     * Concept: Multi-test case loops (`T`) and subtraction (`B - G`) to find how many boys are left without a partner. Difficulty: 347.
 53. **AirQualityIndex**
     * Concept: A strict-boundary comparison (`X < 100`) to decide whether the AQI is within limits. Difficulty: 347.   
+54. **Fever**
+    * Concept: Multi-test case loops (`T`) and a strict comparison (`X > 98`) to decide whether Chef has a fever. Difficulty: 348.
+
+55. **Sleepdeprivation**
+    * Concept: Multi-test case loops (`T`) and a strict comparison (`X < 7`) to decide whether Chef is sleep-deprived. Difficulty: 348.
+
+56. **MATH1Enrolment**
+    * Concept: Multi-test case loops (`T`) and conditional subtraction (`Y - X` when `Y > X`, else 0) to find the extra seats needed. Difficulty: 349.
+
+57. **ChefandChapters**
+    * Concept: Multi-test case loops (`T`) and multiplication of three values (`X * Y * Z`) to find the total chapters. Difficulty: 350.
+
+58. **WaterRequirement**
+    * Concept: Multi-test case loops (`T`) and basic multiplication (`2 * N`) to find the liters of water needed. Difficulty: 351.
+
+59. **Lunchtime**
+    * Concept: Multi-test case loops (`T`) and an inclusive range check (`X >= 1 && X <= 4`) to decide whether it is lunchtime. Difficulty: 352.
+
+60. **GoodInvestmentorNot**
+    * Concept: Multi-test case loops (`T`) and a "twice as much" comparison (`X >= 2 * Y`) to decide whether an investment is good. Difficulty: 357.
 ---
 
 Built while balancing college coursework and daily coding practice.
