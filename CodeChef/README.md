@@ -164,6 +164,20 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 60. **GoodInvestmentorNot**
     * Concept: Multi-test case loops (`T`) and a "twice as much" comparison (`X >= 2 * Y`) to decide whether an investment is good. Difficulty: 357.
+61. **FinalPopulation**
+    * Concept: Multi-test case loops (`T`) and basic arithmetic (`X - Y + Z`) to find the final population in millions. Difficulty: 358.
+
+62. **ChefGivesParty**
+    * Concept: Multi-test case loops (`T`) and multiplication with a comparison (`N * X <= K`) to check whether Chef can afford a burger for every friend. Difficulty: 363.
+
+63. **TimeComplexity**
+    * Concept: Multi-test case loops (`T`) and a strict comparison (`X > Y`) to decide whether algorithm A uses more comparisons than B. Difficulty: 364.
+
+64. **InteriorDesign**
+    * Concept: Multi-test case loops (`T`), addition and comparing two totals (`X1 + Y1` vs `X2 + Y2`) to pick the cheaper style. Difficulty: 373.
+
+65. **CarTrip**
+    * Concept: Multi-test case loops (`T`), multiplication and a minimum-charge condition (`X * 10 < 3000` → 3000) to compute the rental cost. Difficulty: 374.
 ---
 
 Built while balancing college coursework and daily coding practice.
