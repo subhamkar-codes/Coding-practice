@@ -178,6 +178,9 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 65. **CarTrip**
     * Concept: Multi-test case loops (`T`), multiplication and a minimum-charge condition (`X * 10 < 3000` → 3000) to compute the rental cost. Difficulty: 374.
+
+66. MultivitaminTablets
+    - Concept: Multi-test case loops (`T`) and multiplication with a comparison (`X * 3 <= Y`) to check whether Chef has enough tablets for X days. Difficulty: 376.
 ---
 
 Built while balancing college coursework and daily coding practice.
