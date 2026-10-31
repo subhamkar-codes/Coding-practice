@@ -183,7 +183,10 @@ A collection of foundational Java solutions for beginner-level practice problems
     - Concept: Multi-test case loops (`T`) and multiplication with a comparison (`X * 3 <= Y`) to check whether Chef has enough tablets for X days. Difficulty: 376.
 
 67. SixFriends
-    - Concept: Multi-test case loops (`T`) and comparing two totals (`3 * X` vs `2 * Y`) to pick the cheaper room option. Difficulty: ???.
+    - Concept: Multi-test case loops (`T`) and comparing two totals (`3 * X` vs `2 * Y`) to pick the cheaper room option. Difficulty: 380.
+
+68. ChefandWireFrames
+    - Concept: Multi-test case loops (`T`) and the perimeter formula (`2 * (N + M) * X`) to find the total wireframe cost. Difficulty: 383.
 ---
 
 Built while balancing college coursework and daily coding practice.
