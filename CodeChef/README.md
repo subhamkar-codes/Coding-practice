@@ -187,6 +187,9 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 68. ChefandWireFrames
     - Concept: Multi-test case loops (`T`) and the perimeter formula (`2 * (N + M) * X`) to find the total wireframe cost. Difficulty: 383.
+
+69. MinimumCoins
+    - Concept: Multi-test case loops (`T`) and the modulo operator (`X % 10`) to find the coins left after using the maximum number of 10-rupee notes. Difficulty: 390.
 ---
 
 Built while balancing college coursework and daily coding practice.
