@@ -190,6 +190,9 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 69. MinimumCoins
     - Concept: Multi-test case loops (`T`) and the modulo operator (`X % 10`) to find the coins left after using the maximum number of 10-rupee notes. Difficulty: 390.
+
+70. SpiceLevel
+    - Concept: Multi-test case loops (`T`) and an `if / else if / else` chain with range conditions (`X < 4`, `X < 7`) to classify a spice level as MILD, MEDIUM, or HOT. Difficulty: 390.
 ---
 
 Built while balancing college coursework and daily coding practice.
