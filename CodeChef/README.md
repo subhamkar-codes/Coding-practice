@@ -193,6 +193,21 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 70. SpiceLevel
     - Concept: Multi-test case loops (`T`) and an `if / else if / else` chain with range conditions (`X < 4`, `X < 7`) to classify a spice level as MILD, MEDIUM, or HOT. Difficulty: 390.
+
+71. TheGift
+    - Concept: Single-input addition and comparison (`X + M >= N`) to check whether Om can afford the laptop using his money plus the fund. Difficulty: 390.
+
+72. ReachHome
+    - Concept: Multi-test case loops (`T`) and multiplication with a comparison (`X * 5 >= Y`) to check whether the fuel covers the distance. Difficulty: 395.
+
+73. DonationRewards
+    - Concept: Multi-test case loops (`T`) and an `if / else if / else` chain with range conditions to assign a BRONZE, SILVER, or GOLD badge. Difficulty: 395.
+
+74. TrueandFalsePaper
+    - Concept: Multi-test case loops (`T`) and subtraction (`N - K`) to find Bob's score when his answers are the opposite of Alice's. Difficulty: 398.
+
+75. TheCheaperCab
+    - Concept: Multi-test case loops (`T`) and a three-way comparison (`X < Y`, `Y < X`, else equal) to pick the cheaper cab. Difficulty: 399.
 ---
 
 Built while balancing college coursework and daily coding practice.
