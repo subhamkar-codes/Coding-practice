@@ -8,6 +8,7 @@ The main languages currently covered are **C** and **Java**.
 
 - HackerRank
 - CodeChef
+- LeetCode
 
 ## 🗂️ Repository Structure
 
@@ -23,5 +24,10 @@ coding-practice/
 │ 
 ├── CodeChef/
 │   
+│
+│
+├── LeetCode/
+│   
+│
 │
 └── README.md
