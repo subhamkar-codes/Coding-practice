@@ -208,6 +208,9 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 75. TheCheaperCab
     - Concept: Multi-test case loops (`T`) and a three-way comparison (`X < Y`, `Y < X`, else equal) to pick the cheaper cab. Difficulty: 399.
+
+76. Discount
+    - Concept: Multi-test case loops (`T`) and subtraction (`100 - X`) to find the price after a percentage discount on a base price of 100. Difficulty: 401.
 ---
 
 Built while balancing college coursework and daily coding practice.
