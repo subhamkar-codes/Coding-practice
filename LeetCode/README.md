@@ -7,6 +7,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | # | Problem | File | Difficulty | Approach |
 |---|---------|------|------------|----------|
 | 1 | Two Sum | `P0001_TwoSum.java` | Easy | Brute force: check every pair (i, j) with j > i. O(n²) time, O(1) space. |
+| 9 | Palindrome Number | `P0009_PalindromeNumber.java` | Easy | Reverse the digits using `% 10` and `/ 10` (no string conversion) and compare with the original. Negatives return false. A `long` holds the reversed value to avoid overflow. O(log n) time, O(1) space. |
 
 ## File Structure
 
