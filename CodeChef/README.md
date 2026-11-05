@@ -211,6 +211,9 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 76. Discount
     - Concept: Multi-test case loops (`T`) and subtraction (`100 - X`) to find the price after a percentage discount on a base price of 100. Difficulty: 401.
+
+77. HeightofRationals
+    - Concept: Comparing two values to find the maximum of a fraction's numerator and denominator (its "height"). Difficulty: 405.
 ---
 
 Built while balancing college coursework and daily coding practice.
