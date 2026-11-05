@@ -214,6 +214,13 @@ A collection of foundational Java solutions for beginner-level practice problems
 
 77. HeightofRationals
     - Concept: Comparing two values to find the maximum of a fraction's numerator and denominator (its "height"). Difficulty: 405.
+78. Instagram
+    - Concept: Multi-test case loops (`T`) and a comparison with multiplication (`X > 10 * Y`) to decide whether an account is spam. Difficulty: 408.
+79. VolumeControl
+    - Concept: Multi-test case loops (`T`) and `Math.max` / `Math.min` to find the difference between two values, i.e. the minimum button presses. Difficulty: 409.
+80. ATM
+    - Concept: Reading a `double`, a combined condition (`X % 5 == 0 && Y >= X + 0.50`) and `printf("%.2f")` formatting to compute a balance after a withdrawal with a bank charge. Difficulty: 460.
 ---
+
 
 Built while balancing college coursework and daily coding practice.
