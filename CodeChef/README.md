@@ -220,6 +220,17 @@ A collection of foundational Java solutions for beginner-level practice problems
     - Concept: Multi-test case loops (`T`) and `Math.max` / `Math.min` to find the difference between two values, i.e. the minimum button presses. Difficulty: 409.
 80. ATM
     - Concept: Reading a `double`, a combined condition (`X % 5 == 0 && Y >= X + 0.50`) and `printf("%.2f")` formatting to compute a balance after a withdrawal with a bank charge. Difficulty: 460.
+81. IsitHotorCold
+    - Concept: Multi-test case loops (`T`) and a single comparison (`C > 20`) to classify the climate as HOT or COLD. Difficulty: 410.
+82. ProfitIncrement
+    - Concept: Multi-test case loops (`T`) and percentage arithmetic (`Y + X / 10`) to find the new profit after a 10% increase in selling price. Difficulty: 414.
+83. FilltheBucket
+    - Concept: Multi-test case loops (`T`) and subtraction (`K - X`) to find the remaining capacity of a bucket. Difficulty: 419.
+84. Parliament
+    - Concept: Multi-test case loops (`T`) and comparing votes against with votes in favour (`N - X <= X`) to check for a half-or-more majority without integer division. Difficulty: 419.
+85. FindRemainder
+    - Concept: Multi-test case loops (`T`) and the modulo operator (`A % B`) to find a remainder. Difficulty: 420.
+
 ---
 
 
