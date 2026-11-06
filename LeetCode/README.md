@@ -8,6 +8,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 |---|---------|------|------------|----------|
 | 1 | Two Sum | `P0001_TwoSum.java` | Easy | Brute force: check every pair (i, j) with j > i. O(n²) time, O(1) space. |
 | 9 | Palindrome Number | `P0009_PalindromeNumber.java` | Easy | Reverse the digits using `% 10` and `/ 10` (no string conversion) and compare with the original. Negatives return false. A `long` holds the reversed value to avoid overflow. O(log n) time, O(1) space. |
+| 13 | Roman to Integer | `P0013_RomanToInteger.java` | Easy | HashMap from symbol to value. Scan left to right: subtract a symbol's value if the next symbol is larger, otherwise add it. O(n) time, O(1) space (the map always has 7 entries). |
 
 ## File Structure
 
