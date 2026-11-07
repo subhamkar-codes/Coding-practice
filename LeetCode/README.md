@@ -25,6 +25,9 @@ Every file has two parts:
 - Arrays and index handling
 - Nested loops
 - Reading array input with `Scanner`
+- HashMap as a lookup table
+- String traversal (`charAt`, `substring`)
+- Early exit from nested loops
 
 ## Tech
 
