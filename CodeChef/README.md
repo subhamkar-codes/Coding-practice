@@ -230,7 +230,11 @@ A collection of foundational Java solutions for beginner-level practice problems
     - Concept: Multi-test case loops (`T`) and comparing votes against with votes in favour (`N - X <= X`) to check for a half-or-more majority without integer division. Difficulty: 419.
 85. FindRemainder
     - Concept: Multi-test case loops (`T`) and the modulo operator (`A % B`) to find a remainder. Difficulty: 420.
-
+86. EzioandGuards
+    - Concept: Multi-test case loops (`T`) and a comparison (`X >= Y`) to check whether Ezio can manipulate all the guards. Difficulty: 427.
+87. ChefandMasks
+    - Concept: Multi-test case loops (`T`) and comparing two computed totals (`X * 100` vs `Y * 10`) with a tie-break rule to pick the cheaper mask type. Difficulty: 432.
+    
 ---
 
 
