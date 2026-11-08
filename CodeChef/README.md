@@ -234,6 +234,16 @@ A collection of foundational Java solutions for beginner-level practice problems
     - Concept: Multi-test case loops (`T`) and a comparison (`X >= Y`) to check whether Ezio can manipulate all the guards. Difficulty: 427.
 87. ChefandMasks
     - Concept: Multi-test case loops (`T`) and comparing two computed totals (`X * 100` vs `Y * 10`) with a tie-break rule to pick the cheaper mask type. Difficulty: 432.
+88. Speciality
+    - Concept: Multi-test case loops (`T`) and comparing three values with `&&` to find the largest and map it to Setter, Tester, or Editorialist. Difficulty: 434.
+89. MaximumSubmissions
+    - Concept: Multi-test case loops (`T`) and multiplication (`X * 2`) to find the maximum submissions in X minutes at one per 30 seconds. Difficulty: 435.
+90. TVDiscount
+    - Concept: Multi-test case loops (`T`), subtraction, and a three-way comparison of prices after discount (`A - C` vs `B - D`). Difficulty: 447.
+91. BrokenPhone
+    - Concept: Multi-test case loops (`T`) and a three-way comparison (`X` vs `Y`) to choose between repairing and replacing. Difficulty: 451.
+92. TyreProblem
+    - Concept: Multi-test case loops (`T`), multiplication, and addition (`N * 2 + M * 4`) to count total tyres. Difficulty: 452.
     
 ---
 
