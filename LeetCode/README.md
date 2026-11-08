@@ -10,6 +10,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 9 | Palindrome Number | `P0009_PalindromeNumber.java` | Easy | Reverse the digits using `% 10` and `/ 10` (no string conversion) and compare with the original. Negatives return false. A `long` holds the reversed value to avoid overflow. O(log n) time, O(1) space. |
 | 13 | Roman to Integer | `P0013_RomanToInteger.java` | Easy | HashMap from symbol to value. Scan left to right: subtract a symbol's value if the next symbol is larger, otherwise add it. O(n) time, O(1) space (the map always has 7 entries). |
 | 14 | Longest Common Prefix | `P0014_LongestCommonPrefix.java` | Easy | Find the shortest string length, then compare the first string's characters column by column against every other string. Return the prefix at the first mismatch. O(n·m) time (n strings, m shortest length), O(1) extra space. |
+| 20 | Valid Parentheses | `P0020_ValidParentheses.java` | Easy | Stack: push each opening bracket. On a closing bracket, the top of the stack must be its matching opener, otherwise invalid. Valid only if the stack is empty at the end. O(n) time, O(n) space. |
 
 ## File Structure
 
@@ -28,7 +29,8 @@ Every file has two parts:
 - HashMap as a lookup table
 - String traversal (`charAt`, `substring`)
 - Early exit from nested loops
-
+- Stack (LIFO) and matching bracket pairs.
+- 
 ## Tech
 
 - Language: Java
