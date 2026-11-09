@@ -244,7 +244,15 @@ A collection of foundational Java solutions for beginner-level practice problems
     - Concept: Multi-test case loops (`T`) and a three-way comparison (`X` vs `Y`) to choose between repairing and replacing. Difficulty: 451.
 92. TyreProblem
     - Concept: Multi-test case loops (`T`), multiplication, and addition (`N * 2 + M * 4`) to count total tyres. Difficulty: 452.
-    
+93. SumofDigits
+    - Concept: Multi-test case loops (`T`) and a `while` loop using `% 10` and `/ 10` to peel off and add each digit of a number. Difficulty: 420.
+94. MonthlyBudget
+    - Concept: Multi-test case loops (`T`) and multiplication with a comparison (`X >= Y * 30`) to check whether a budget covers 30 days of spending. Difficulty: 456.
+95. CreditScore
+    - Concept: A single threshold comparison (`X >= 750`) to check eligibility. Difficulty: 459.
+96. FirstandLastDigit
+    - Concept: Multi-test case loops (`T`), `% 10` for the last digit, and a `while` loop dividing by 10 to reach the first digit. Difficulty: 420.  
+
 ---
 
 
