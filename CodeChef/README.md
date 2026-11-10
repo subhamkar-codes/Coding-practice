@@ -252,8 +252,13 @@ A collection of foundational Java solutions for beginner-level practice problems
     - Concept: A single threshold comparison (`X >= 750`) to check eligibility. Difficulty: 459.
 96. FirstandLastDigit
     - Concept: Multi-test case loops (`T`), `% 10` for the last digit, and a `while` loop dividing by 10 to reach the first digit. Difficulty: 420.  
+97. PracticeMakesUsPerfect
+    - Concept: A `for` loop over four fixed inputs with a counter (`count++` when `P >= 10`) to count the weeks Chef met his target. Difficulty: 467.
+98. PendingAssignments
+    - Concept: Multi-test case loops (`T`) and comparing two totals in minutes (`X * Y` vs `Z * 24 * 60`) to check whether the work fits in the available days. Difficulty: 468.
 
 ---
+
 
 
 Built while balancing college coursework and daily coding practice.
