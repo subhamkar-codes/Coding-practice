@@ -12,6 +12,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 14 | Longest Common Prefix | `P0014_LongestCommonPrefix.java` | Easy | Find the shortest string length, then compare the first string's characters column by column against every other string. Return the prefix at the first mismatch. O(n·m) time (n strings, m shortest length), O(1) extra space. |
 | 20 | Valid Parentheses | `P0020_ValidParentheses.java` | Easy | Stack: push each opening bracket. On a closing bracket, the top of the stack must be its matching opener, otherwise invalid. Valid only if the stack is empty at the end. O(n) time, O(n) space. |
 | 21 | Merge Two Sorted Lists | `P0021_MergeTwoSortedLists.java` | Easy | Iterative two-pointer merge: pick the smaller head, then repeatedly link the smaller of the two current nodes onto a `tail` pointer. Reuses the existing nodes (no new ones). O(n + m) time, O(1) extra space. |
+| 26 | Remove Duplicates from Sorted Array | `P0026_RemoveDuplicatesFromSortedArray.java` | Easy | Two pointers, in place: `i` marks the last unique value; scan with `j`, and when `nums[j]` differs from `nums[i]`, advance `i` and copy the value. Return `i + 1`. O(n) time, O(1) space. |
 
 ## File Structure
 
@@ -32,6 +33,8 @@ Every file has two parts:
 - Early exit from nested loops
 - Stack (LIFO) and matching bracket pairs.
 - Linked lists and pointer manipulation
+- - Two-pointer technique
+- In-place array modification
 ## Tech
 
 - Language: Java
