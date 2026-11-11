@@ -256,6 +256,14 @@ A collection of foundational Java solutions for beginner-level practice problems
     - Concept: A `for` loop over four fixed inputs with a counter (`count++` when `P >= 10`) to count the weeks Chef met his target. Difficulty: 467.
 98. PendingAssignments
     - Concept: Multi-test case loops (`T`) and comparing two totals in minutes (`X * Y` vs `Z * 24 * 60`) to check whether the work fits in the available days. Difficulty: 468.
+99. Course Registration
+- Concept: conditional logic, checking available capacity (M - K) against group size N.
+Difficulty: Easy.
+
+100. Insurance
+- Concept: capping a value at a maximum, finding the minimum of two numbers.
+Difficulty: Easy.
+
 
 ---
 
