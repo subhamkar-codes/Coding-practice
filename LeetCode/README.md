@@ -14,6 +14,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 21 | Merge Two Sorted Lists | `P0021_MergeTwoSortedLists.java` | Easy | Iterative two-pointer merge: pick the smaller head, then repeatedly link the smaller of the two current nodes onto a `tail` pointer. Reuses the existing nodes (no new ones). O(n + m) time, O(1) extra space. |
 | 26 | Remove Duplicates from Sorted Array | `P0026_RemoveDuplicatesFromSortedArray.java` | Easy | Two pointers, in place: `i` marks the last unique value; scan with `j`, and when `nums[j]` differs from `nums[i]`, advance `i` and copy the value. Return `i + 1`. O(n) time, O(1) space. |
 | 27 | Remove Element | P0027_RemoveElement.java | Easy | Two pointers: read pointer scans, write pointer overwrites in place with non-val elements |
+| 28 | Find the Index of the First Occurrence in a String | P0028_FindTheIndexOfTheFirstOccurrenceInAString.java | Easy | Brute force: try every start index, compare chars, break on mismatch, return index if full match |
 
 ## File Structure
 
