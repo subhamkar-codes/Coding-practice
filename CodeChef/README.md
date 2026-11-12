@@ -263,7 +263,12 @@ Difficulty: Easy.
 100. Insurance
 - Concept: capping a value at a maximum, finding the minimum of two numbers.
 Difficulty: Easy.
-
+101. Codechef Airlines
+- Concept: capping a value with a limit (seats vs. people), minimum of two values, multiplication.
+Difficulty: Easy.
+102. Increase IQ
+- Concept: comparing a computed value against a threshold, strict inequality (>).
+Difficulty: Easy.
 
 ---
 
