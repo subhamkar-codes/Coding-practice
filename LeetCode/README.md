@@ -15,6 +15,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 26 | Remove Duplicates from Sorted Array | `P0026_RemoveDuplicatesFromSortedArray.java` | Easy | Two pointers, in place: `i` marks the last unique value; scan with `j`, and when `nums[j]` differs from `nums[i]`, advance `i` and copy the value. Return `i + 1`. O(n) time, O(1) space. |
 | 27 | Remove Element | P0027_RemoveElement.java | Easy | Two pointers: read pointer scans, write pointer overwrites in place with non-val elements |
 | 28 | Find the Index of the First Occurrence in a String | P0028_FindTheIndexOfTheFirstOccurrenceInAString.java | Easy | Brute force: try every start index, compare chars, break on mismatch, return index if full match |
+| 35 | Search Insert Position | P0035_SearchInsertPosition.java | Easy | Binary search (left/right/mid); return left as insertion index when not found |
 
 ## File Structure
 
