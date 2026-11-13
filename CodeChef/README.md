@@ -269,6 +269,13 @@ Difficulty: Easy.
 102. Increase IQ
 - Concept: comparing a computed value against a threshold, strict inequality (>).
 Difficulty: Easy.
+103. Battery Low
+- Concept: threshold comparison with inclusive boundary (<=), if-else.
+Difficulty: Easy.
+104. Bob at the Bank
+- Concept: arithmetic expressions, net monthly change (deposit minus charges), handling negative results.
+Difficulty: Easy.
+
 
 ---
 
