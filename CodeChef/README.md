@@ -275,7 +275,12 @@ Difficulty: Easy.
 104. Bob at the Bank
 - Concept: arithmetic expressions, net monthly change (deposit minus charges), handling negative results.
 Difficulty: Easy.
-
+105. The Mango Truck
+- Concept: integer division, finding the maximum count that fits within a limit.
+Difficulty: Easy.
+106. Monopoly in Chefland
+- Concept: comparing each value against the sum of the others, logical OR (||), strict inequality.
+Difficulty: Easy.
 
 ---
 
