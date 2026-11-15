@@ -281,7 +281,30 @@ Difficulty: Easy.
 106. Monopoly in Chefland
 - Concept: comparing each value against the sum of the others, logical OR (||), strict inequality.
 Difficulty: Easy.
-
+107. Bucket and Water Flow
+- Concept: computing a total (initial + rate x time), three-way comparison with capacity.
+Difficulty: Easy.
+108. Miami GP
+- Concept: percentage threshold (107%), comparing with doubles, floating-point precision.
+Difficulty: Easy.
+109. Dominant Army
+- Concept: comparing each value with the sum of the others, logical OR (||).
+Difficulty: Easy.
+110. Playlist
+- Concept: integer division, counting complete cycles.
+Difficulty: Easy.
+111. Chef and Chocolates
+- Concept: subtraction and multiplication, computing a shortfall cost.
+Difficulty: Easy.
+112. Netflix
+- Concept: checking all pairs, logical OR (||).
+Difficulty: Easy.
+113. Chef and Gym
+- Concept: three-way branching, ordering conditions.
+Difficulty: Easy.
+114. Best Coupon
+- Concept: percentage discount, maximum of two values, integer vs floating-point arithmetic.
+Difficulty: Easy.
 ---
 
 
