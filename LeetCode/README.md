@@ -17,7 +17,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 28 | Find the Index of the First Occurrence in a String | P0028_FindTheIndexOfTheFirstOccurrenceInAString.java | Easy | Brute force: try every start index, compare chars, break on mismatch, return index if full match |
 | 35 | Search Insert Position | P0035_SearchInsertPosition.java | Easy | Binary search (left/right/mid); return left as insertion index when not found |
 | 58 | Length of Last Word | P0058_LengthOfLastWord.java | Easy | Scan from the end: skip trailing spaces, count characters until the next space |
-
+| 66 | Plus One | P0066_PlusOne.java | Easy | Scan from the end: 9 becomes 0 and carries, otherwise increment and return; new array with leading 1 if all 9s |
 
 ## File Structure
 
