@@ -6,7 +6,7 @@ public class P0001_TwoSum {
         int n = sc.nextInt();
         int[] arr = new int[n];
         boolean found = false;
-        for (int i = 0; i < arr.length && !found; i++) {
+        for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
         int target = sc.nextInt();
@@ -25,7 +25,7 @@ public class P0001_TwoSum {
 
     }
 }
-//--- For Directly Copy and paste in LeetCode ---   
+//--- For Directly Copy and paste in LeetCode ---
 
 //class Solution {
 //    public int[] twoSum(int[] nums, int target) {
