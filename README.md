@@ -24,6 +24,10 @@ coding-practice/
 │ 
 ├── CodeChef/
 │   
+│ 
+│ 
+├── CodeChef(500-1000)/
+│   
 │
 │
 ├── LeetCode/
