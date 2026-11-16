@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Solution {
+class Solution35 {
     public int searchInsert(int[] nums, int target) {
             int left = 0;
             int right = nums.length -1 ;
@@ -40,7 +40,7 @@ public class P0035_SearchInsertPosition {
         System.out.print("Enter target: ");
         int target = sc.nextInt();
 
-        Solution obj = new Solution();
+        Solution35 obj = new Solution35();
 
         int result = obj.searchInsert(nums, target);
 
