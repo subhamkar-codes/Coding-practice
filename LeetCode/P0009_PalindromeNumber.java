@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // for leet code direct solution
 
-class Solution {
+class Solution09 {
     public boolean isPalindrome(int x) {
         long rev = 0;
         int digit;
