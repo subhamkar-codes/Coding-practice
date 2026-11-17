@@ -20,8 +20,9 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 6 | Mahasena | Mahasena.java | 720 | counting even and odd values in an array, comparing counts |
 | 7 | CRED Coins | CREDCoins.java | 539 | integer division, bags from a coin total |
 | 8 | Water Filling | WaterFilling.java | 541 | counting empty bottles, simplifying branch conditions |
-| 9 | Minimum Pizzas | MinimumPizzas.java | 546 | ceiling division using only integers |
-| 10 | Sale Season | SaleSeason.java | 541| if else and boundry check |
+| 9 | Sale Season | SaleSeason.java | 541| if else and boundry check |
+| 10 | Minimum Pizzas | MinimumPizzas.java | 546 | ceiling division using only integers |
+
 
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
