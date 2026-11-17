@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class WaterFilling {
+    static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        for (int i = 0; i < t ; i++) {
+            int b1 = sc.nextInt();
+            int b2 = sc.nextInt();
+            int b3 = sc.nextInt();
+            if (b1 == 1 && b2 == 1 && b3 == 1) {
+                System.out.println("Not now");
+            }
+            else if (b1 == 1 && b2 == 1 || b2 == 1 && b3 == 1 || b3 == 1 && b1 == 1){
+                System.out.println("Not now");
+            }
+            else if (b1 == 0 && b2 == 0 && b3 == 0) {
+                System.out.println("Water filling time");
+            }
+            else{
+                System.out.println("Water filling time");
+            }
+
+        }
+    }
+}
