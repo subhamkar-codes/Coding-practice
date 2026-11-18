@@ -20,6 +20,10 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 66 | Plus One | `solutions/src/P0066_PlusOne.java` | Easy | Scan from the end, turning 9s into 0s and carrying. If every digit was 9, return a new array with a leading 1. O(n) time and O(n) space in the all-9s case. |
 | 67 | Add Binary | `solutions/src/P0067_AddBinary.java` | Easy | Add bits from right to left with a carry. Append each result bit to a `StringBuilder`, then reverse it. O(max(n, m)) time and O(max(n, m)) space for the result. |
 | 69 | Sqrt(x) | `solutions/src/P0069_Sqrt_x.java` | Easy | Binary search for the largest value where `mid <= x / mid`; division avoids overflow from `mid * mid`. O(log x) time, O(1) space. |
+| 70 | Climbing Stairs | `solutions/src/P0070_ClimbingStairs.java` | Easy | Iterative DP: track the previous two counts in `a` and `b`, update them in one pass, and return `b`. O(n) time, O(1) space. |
+
+- Dynamic programming with a rolling two-value state (Fibonacci recurrence)
+
 
 ## File Structure
 
