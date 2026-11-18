@@ -21,8 +21,14 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 7 | CRED Coins | CREDCoins.java | 539 | integer division, bags from a coin total |
 | 8 | Water Filling | WaterFilling.java | 541 | counting empty bottles, simplifying branch conditions |
 | 9 | Sale Season | SaleSeason.java | 541| if else and boundry check |
-| 10 | Minimum Pizzas | MinimumPizzas.java | 546 | ceiling division using only integers |
-
+| 10 | Sale Season | SaleSeason.java | 541 | tiered discounts, boundary conditions with < and <= |
+| 11 | Chefland Games | CheflandGames.java | 550 | logical AND, checking that all conditions hold |
+| 12 | Expert Setter | ExpertSetter.java | 561 | percentage threshold, avoiding double |
+| 13 | Chef and NextGen | ChefAndNextGen.java | 562 | product comparison, int range |
+| 14 | Sugarcane Juice Business | SugarcaneJuiceBusiness.java | 563 | percentage arithmetic with integers |
+| 15 | Count the Notebooks | CountTheNotebooks.java | 563 | unit conversion, integer arithmetic |
+| 16 | Chef and Candies | ChefAndCandies.java | 570 | ceiling division with a zero-floor check |
+| 17 | Car or Bike | CarOrBike.java | 571 | three-way comparison |
 
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
