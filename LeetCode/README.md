@@ -5,41 +5,44 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 ## Solved Problems
 
 | # | Problem | File | Difficulty | Approach |
-|---|---------|------|------------|----------|
-| 1 | Two Sum | `solutions/src/P0001_TwoSum.java` | Easy | Brute force: check every pair (i, j) with j > i. O(n²) time, O(1) space. |
-| 9 | Palindrome Number | `solutions/src/P0009_PalindromeNumber.java` | Easy | Reverse the digits using `% 10` and `/ 10` (no string conversion) and compare with the original. Negatives return false. A `long` holds the reversed value to avoid overflow. O(log n) time, O(1) space. |
-| 13 | Roman to Integer | `solutions/src/P0013_RomanToInteger.java` | Easy | HashMap from symbol to value. Scan left to right: subtract a symbol's value if the next symbol is larger, otherwise add it. O(n) time, O(1) space (the map always has 7 entries). |
-| 14 | Longest Common Prefix | `solutions/src/P0014_LongestCommonPrefix.java` | Easy | Find the shortest string length, then compare the first string's characters column by column against every other string. Return the prefix at the first mismatch. O(n·m) time (n strings, m shortest length), O(1) extra space. |
-| 20 | Valid Parentheses | `solutions/src/P0020_ValidParentheses.java` | Easy | Stack: push each opening bracket. On a closing bracket, the top of the stack must be its matching opener, otherwise invalid. Valid only if the stack is empty at the end. O(n) time, O(n) space. |
-| 21 | Merge Two Sorted Lists | `solutions/src/P0021_MergeTwoSortedLists.java` | Easy | Iterative two-pointer merge: pick the smaller head, then repeatedly link the smaller of the two current nodes onto a `tail` pointer. Reuses the existing nodes (no new ones). O(n + m) time, O(1) extra space. |
-| 26 | Remove Duplicates from Sorted Array | `solutions/src/P0026_RemoveDuplicatesFromSortedArray.java` | Easy | Two pointers, in place: `i` marks the last unique value; scan with `j`, and when `nums[j]` differs from `nums[i]`, advance `i` and copy the value. Return `i + 1`. O(n) time, O(1) space. |
-| 27 | Remove Element | P0027_RemoveElement.java | Easy | Two pointers: read pointer scans, write pointer overwrites in place with non-val elements |
-| 28 | Find the Index of the First Occurrence in a String | P0028_FindTheIndexOfTheFirstOccurrenceInAString.java | Easy | Brute force: try every start index, compare chars, break on mismatch, return index if full match |
-| 35 | Search Insert Position | P0035_SearchInsertPosition.java | Easy | Binary search (left/right/mid); return left as insertion index when not found |
-| 58 | Length of Last Word | P0058_LengthOfLastWord.java | Easy | Scan from the end: skip trailing spaces, count characters until the next space |
-| 66 | Plus One | P0066_PlusOne.java | Easy | Scan from the end: 9 becomes 0 and carries, otherwise increment and return; new array with leading 1 if all 9s |
+|---|---|---|---|---|
+| 1 | Two Sum | `solutions/src/P0001_TwoSum.java` | Easy | Brute force: check every pair `(i, j)` with `j > i`. O(n²) time, O(1) extra space. |
+| 9 | Palindrome Number | `solutions/src/P0009_PalindromeNumber.java` | Easy | Reverse the digits using `% 10` and `/ 10` without converting to a string, then compare with the original. Negative values return false. A `long` holds the reversed value to avoid overflow. O(log n) time, O(1) space. |
+| 13 | Roman to Integer | `solutions/src/P0013_RomanToInteger.java` | Easy | Use a HashMap from symbols to values. Scan left to right, subtracting when the next symbol is larger and adding otherwise. O(n) time, O(1) space. |
+| 14 | Longest Common Prefix | `solutions/src/P0014_LongestCommonPrefix.java` | Easy | Find the shortest string length, then compare characters column by column until a mismatch. O(n·m) time, where n is the number of strings and m is the shortest length; O(1) extra space, excluding the returned prefix. |
+| 20 | Valid Parentheses | `solutions/src/P0020_ValidParentheses.java` | Easy | Use a stack: push opening brackets and check each closing bracket against the top. The string is valid if the stack is empty at the end. O(n) time, O(n) space. |
+| 21 | Merge Two Sorted Lists | `solutions/src/P0021_MergeTwoSortedLists.java` | Easy | Iteratively merge with two pointers and a `tail`, reusing the existing nodes. O(n + m) time, O(1) extra space. |
+| 26 | Remove Duplicates from Sorted Array | `solutions/src/P0026_RemoveDuplicatesFromSortedArray.java` | Easy | Use two pointers in place: keep the last unique value at `i`, scan with `j`, and copy each new value forward. O(n) time, O(1) space. |
+| 27 | Remove Element | `solutions/src/P0027_RemoveElement.java` | Easy | Use read and write pointers. Copy each non-`val` element forward in place. O(n) time, O(1) space. |
+| 28 | Find the Index of the First Occurrence in a String | `solutions/src/P0028_FindTheIndexOfTheFirstOccurrenceInAString.java` | Easy | Try each possible start index and compare characters until a mismatch or full match. O(n·m) time, where n is the haystack length and m is the needle length; O(1) extra space. |
+| 35 | Search Insert Position | `solutions/src/P0035_SearchInsertPosition.java` | Easy | Binary search the sorted array. If the target is absent, return the left boundary as its insertion index. O(log n) time, O(1) space. |
+| 58 | Length of Last Word | `solutions/src/P0058_LengthOfLastWord.java` | Easy | Scan from the end, skip trailing spaces, then count characters until the preceding space. O(n) time, O(1) space. |
+| 66 | Plus One | `solutions/src/P0066_PlusOne.java` | Easy | Scan from the end, turning 9s into 0s and carrying. If every digit was 9, return a new array with a leading 1. O(n) time and O(n) space in the all-9s case. |
+| 67 | Add Binary | `solutions/src/P0067_AddBinary.java` | Easy | Add bits from right to left with a carry. Append each result bit to a `StringBuilder`, then reverse it. O(max(n, m)) time and O(max(n, m)) space for the result. |
+| 69 | Sqrt(x) | `solutions/src/P0069_Sqrt_x.java` | Easy | Binary search for the largest value where `mid <= x / mid`; division avoids overflow from `mid * mid`. O(log x) time, O(1) space. |
 
 ## File Structure
 
-Each file is named `P<number>_<ProblemName>.java`. The `P` prefix is there because Java class names can't start with a digit.
+Each file is named `P<number>_<ProblemName>.java`. The `P` prefix lets the class name start with a letter, as Java requires.
 
-Every file has two parts:
-
-- **Local test version:** a `main` method that reads input with `Scanner`, so I can run and debug the logic myself.
-- **LeetCode submission:** the `Solution` class in the format LeetCode expects, kept as a comment at the bottom for copy-pasting.
+Files can include a `main` method with `Scanner` input for local testing and a problem-specific solution class. For LeetCode, submit the required method in the expected `Solution` class format; the local `main` method and input prompts are not needed there.
 
 ## Concepts Practiced
 
 - Arrays and index handling
-- Nested loops
-- Reading array input with `Scanner`
-- HashMap as a lookup table
-- String traversal (`charAt`, `substring`)
-- Early exit from nested loops
-- Stack (LIFO) and matching bracket pairs.
-- Linked lists and pointer manipulation
-- - Two-pointer technique
+- Brute force and nested loops
+- Reading input with `Scanner`
+- HashMap lookups
+- String traversal with `charAt` and `substring`
+- Early exits from loops
+- Stacks and matching bracket pairs
+- Linked lists and reference manipulation
+- Two-pointer techniques
 - In-place array modification
+- Binary addition, carry handling, `StringBuilder`, and reversing
+- Binary search and integer square root
+- Avoiding integer overflow with safe comparisons
+
 ## Tech
 
 - Language: Java
@@ -47,6 +50,6 @@ Every file has two parts:
 
 ## Notes
 
-The Approach column records the method and its time and space complexity. When I find a better solution to a problem, I update its row.
+The Approach column records each method and its time and space complexity. When I find a better solution to a problem, I update its row.
 
 *Built while balancing college coursework and daily coding practice.*
