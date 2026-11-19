@@ -29,7 +29,11 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 15 | Count the Notebooks | CountTheNotebooks.java | 563 | unit conversion, integer arithmetic |
 | 16 | Chef and Candies | ChefAndCandies.java | 570 | ceiling division with a zero-floor check |
 | 17 | Car or Bike | CarOrBike.java | 571 | three-way comparison |
-
+| 18 | Is the Score Consistent | IsTheScoreConsistent.java | 572 | values that can only increase, two conditions with && |
+| 19 | The Three Topics | TheThreeTopics.java | 573 | membership check with ||, single test case |
+| 20 | Monopoly | Monopoly.java | 578 | comparing each value with the sum of the others |
+| 21 | Problems in your to-do list | ProblemsInYourToDoList.java | 580 | counting values over a limit, resetting a counter per test case |
+| 22 | Air Conditioner Temperature | AirConditionerTemperature.java | 584 | overlapping ranges, max of lower bounds against an upper bound |
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
