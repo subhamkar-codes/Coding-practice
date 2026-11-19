@@ -56,13 +56,13 @@ class Solution21 {
 
 
 
-class ListNode {
+class ListNode1 {
     int val;
     ListNode next;
 
-    ListNode() {}
+    ListNode1() {}
 
-    ListNode(int val) {
+    ListNode1(int val) {
         this.val = val;
         this.next = null;
     }
