@@ -22,6 +22,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 69 | Sqrt(x) | `solutions/src/P0069_Sqrt_x.java` | Easy | Binary search for the largest value where `mid <= x / mid`; division avoids overflow from `mid * mid`. O(log x) time, O(1) space. |
 | 70 | Climbing Stairs | `solutions/src/P0070_ClimbingStairs.java` | Easy | Iterative DP: track the previous two counts in `a` and `b`, update them in one pass, and return `b`. O(n) time, O(1) space. |
 | 83 | Remove Duplicates from Sorted List | `solutions/src/P0083_RemoveDuplicatesFromSortedList.java` | Easy | Traverse once with `current`. If adjacent nodes have equal values, skip the duplicate with `current.next = current.next.next`; otherwise, advance `current`. O(n) time, O(1) extra space. |
+| 88 | Merge Sorted Array | `solutions/src/P0088_MergeSortedArray.java` | Easy | Merge from the back with three pointers, so no unread element of `nums1` is overwritten. Then copy any leftover `nums2` elements. O(m+n) time, O(1) extra space. |
 
 - Dynamic programming with a rolling two-value state (Fibonacci recurrence)
 
