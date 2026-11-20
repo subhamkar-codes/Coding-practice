@@ -34,6 +34,12 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 20 | Monopoly | Monopoly.java | 578 | comparing each value with the sum of the others |
 | 21 | Problems in your to-do list | ProblemsInYourToDoList.java | 580 | counting values over a limit, resetting a counter per test case |
 | 22 | Air Conditioner Temperature | AirConditionerTemperature.java | 584 | overlapping ranges, max of lower bounds against an upper bound |
+| 23 | Nearest Exit | NearestExit.java | 585 | nearest of two ends, edge case at the midpoint |
+| 24 | Reverse The Number | ReverseTheNumber.java | 420 | reversing digits with `% 10` and `/ 10` |
+| 25 | Good Program | GoodProgram.java | 593 | divisibility check with `%` |
+| 26 | Qualify the round | QualifyTheRound.java | 594 | weighted score against a threshold |
+| 27 | Sasta Shark Tank | SastaSharkTank.java | 592 | comparing percentage valuations with integers, three-way comparison |
+
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
