@@ -4,7 +4,7 @@ Solutions to the CodeChef practice course for the **500 to 1000 difficulty ratin
 
 This follows my earlier folder, which covered the 500-rated warm-up set. Here the problems get slightly harder: more conditions, arithmetic edge cases, and early loop and array work.
 
-**Progress:** 5 / 156 solved
+**Progress:** 27 / 156 solved
 
 ---
 
