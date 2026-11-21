@@ -4,7 +4,7 @@ Solutions to the CodeChef practice course for the **500 to 1000 difficulty ratin
 
 This follows my earlier folder, which covered the 500-rated warm-up set. Here the problems get slightly harder: more conditions, arithmetic edge cases, and early loop and array work.
 
-**Progress:** 27 / 156 solved
+**Progress:** 32 / 156 solved
 
 ---
 
@@ -39,7 +39,11 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 25 | Good Program | GoodProgram.java | 593 | divisibility check with `%` |
 | 26 | Qualify the round | QualifyTheRound.java | 594 | weighted score against a threshold |
 | 27 | Sasta Shark Tank | SastaSharkTank.java | 592 | comparing percentage valuations with integers, three-way comparison |
-
+| 28 | Elections in Chefland | ElectionsInChefland.java | 604 | counting values at or above a minimum, resetting a counter per test case |
+| 29 | Minimum Cars required | MinimumCarsRequired.java | 608 | ceiling division with integers |
+| 30 | Test Score | TestScore.java | 610 | divisibility check combined with an upper bound using `&&` |
+| 31 | Jenga Night | JengaNight.java | 613 | divisibility check for an even split |
+| 32 | Bus Seat Numbering | BusSeatNumbering.java | 613 | classifying a value into ranges with an `else if` chain |
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
