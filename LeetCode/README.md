@@ -24,6 +24,8 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 83 | Remove Duplicates from Sorted List | `solutions/src/P0083_RemoveDuplicatesFromSortedList.java` | Easy | Traverse once with `current`. If adjacent nodes have equal values, skip the duplicate with `current.next = current.next.next`; otherwise, advance `current`. O(n) time, O(1) extra space. |
 | 88 | Merge Sorted Array | `solutions/src/P0088_MergeSortedArray.java` | Easy | Merge from the back with three pointers, so no unread element of `nums1` is overwritten. Then copy any leftover `nums2` elements. O(m+n) time, O(1) extra space. |
 | 94 | Binary Tree Inorder Traversal | solutions/src/P0094_BinaryTreeInorderTraversal.java | Easy | Recursive DFS: visit the left subtree, then the node, then the right subtree, collecting values into a shared list. O(n) time, O(h) space for the recursion stack. |
+| 100 | Same Tree | solutions/src/P0100_SameTree.java | Easy | Recursive DFS on both trees together: both null is true, only one null or different values is false, otherwise both subtrees must match. O(n) time, O(h) space for the recursion stack. |
+
 
 - Dynamic programming with a rolling two-value state (Fibonacci recurrence)
 
@@ -50,6 +52,7 @@ Files can include a `main` method with `Scanner` input for local testing and a p
 - Binary search and integer square root
 - Avoiding integer overflow with safe comparisons
 - Binary tree traversal with recursion
+- Comparing two binary trees node by node with recursion
 
 ## Tech
 
