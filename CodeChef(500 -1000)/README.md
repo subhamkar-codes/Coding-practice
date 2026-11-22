@@ -4,7 +4,7 @@ Solutions to the CodeChef practice course for the **500 to 1000 difficulty ratin
 
 This follows my earlier folder, which covered the 500-rated warm-up set. Here the problems get slightly harder: more conditions, arithmetic edge cases, and early loop and array work.
 
-**Progress:** 32 / 156 solved
+**Progress:** 40 / 156 solved
 
 ---
 
@@ -44,6 +44,14 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 30 | Test Score | TestScore.java | 610 | divisibility check combined with an upper bound using `&&` |
 | 31 | Jenga Night | JengaNight.java | 613 | divisibility check for an even split |
 | 32 | Bus Seat Numbering | BusSeatNumbering.java | 613 | classifying a value into ranges with an `else if` chain |
+| 33 | Discus Throw | DiscusThrow.java | 622 | finding the maximum of three values |
+| 34 | Maximise the Tastiness | MaximiseTheTastiness.java | 627 | `Math.max` on each pair, then summing |
+| 35 | Watching Movies at 2x | WatchingMoviesAt2x.java | 628 | time arithmetic with integer division, using the guarantee that Y is even |
+| 36 | Police and Thief | PoliceAndThief.java | 639 | distance between two points with `Math.max` and `Math.min` |
+| 37 | Flip the cards | FlipTheCards.java | 641 | minimum of two counts |
+| 38 | Bath in Winters | BathInWinters.java | 643 | integer division for "how many fit" |
+| 39 | Finding Shoes | FindingShoes.java | 646 | clamping a value at zero with `Math.max(0, ...)` |
+| 40 | Small factorials | SmallFactorials.java | 420 | `BigInteger` for values that overflow `long` |
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
@@ -56,6 +64,9 @@ New rows are added in batches, only for problems that are marked solved on CodeC
 - Integer division and ceiling division, `(n + k - 1) / k`
 - Why integer comparisons are safer than `double` comparisons
 - Naming values (`int fullDays = 4;`) instead of leaving magic numbers in expressions
+- Maximum and minimum with `Math.max` and `Math.min`
+- Clamping a value at zero
+- Big numbers with `BigInteger`
 
 This list grows only when a new idea comes up, not with every problem.
 
