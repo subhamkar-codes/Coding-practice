@@ -52,6 +52,16 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 38 | Bath in Winters | BathInWinters.java | 643 | integer division for "how many fit" |
 | 39 | Finding Shoes | FindingShoes.java | 646 | clamping a value at zero with `Math.max(0, ...)` |
 | 40 | Small factorials | SmallFactorials.java | 420 | `BigInteger` for values that overflow `long` |
+| 41 | Mario and Transformation | MarioAndTransformation.java | 649 | repeating cycle of length 3 with `%` |
+| 42 | Mario and Bullet | MarioAndBullet.java | 650 | time from distance and speed, clamping at zero with `Math.max(0, ...)` |
+| 43 | Chess Ratings | ChessRatings.java | 651 | ceiling division with integers |
+| 44 | Complementary Strand in a DNA | ComplementaryStrandInADNA.java | 660 | character mapping with `StringBuilder` |
+| 45 | Chef and Water Bottles | ChefAndWaterBottles.java | 662 | integer division capped by a limit |
+| 46 | Candy Distribution | CandyDistribution.java | 668 | divisibility plus an even-share check with `%` |
+| 47 | The Last Levels | TheLastLevels.java | 679 | counting breaks between groups of 3, with no break after the last level |
+| 48 | Blackjack | Blackjack.java | 681 | finding a missing value, using the constraints to skip a bound check, with a helper method |
+| 49 | Fill Candies | FillCandies.java | 681 | ceiling division with integers |
+| 50 | Finding Square Roots | FindingSquareRoots.java | 420 | `Math.sqrt` with an `(int)` cast to round down |
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
@@ -67,7 +77,10 @@ New rows are added in batches, only for problems that are marked solved on CodeC
 - Maximum and minimum with `Math.max` and `Math.min`
 - Clamping a value at zero
 - Big numbers with `BigInteger`
-
+- Repeating cycles with the modulo operator
+- Building strings with `StringBuilder`
+- Splitting logic into a helper method outside `main`
+- Built-in math functions with casts
 This list grows only when a new idea comes up, not with every problem.
 
 ---
