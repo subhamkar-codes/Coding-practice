@@ -26,9 +26,9 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 94 | Binary Tree Inorder Traversal | solutions/src/P0094_BinaryTreeInorderTraversal.java | Easy | Recursive DFS: visit the left subtree, then the node, then the right subtree, collecting values into a shared list. O(n) time, O(h) space for the recursion stack. |
 | 100 | Same Tree | solutions/src/P0100_SameTree.java | Easy | Recursive DFS on both trees together: both null is true, only one null or different values is false, otherwise both subtrees must match. O(n) time, O(h) space for the recursion stack. |
 | 101 | Symmetric Tree | solutions/src/P0101_SymmetricTree.java | Easy | Recursive helper compares two subtrees as mirrors: outer pair (left.left, right.right) and inner pair (left.right, right.left). O(n) time, O(h) space for the recursion stack. |
+| 104 | Maximum Depth of Binary Tree | `solutions/src/P0104_MaximumDepth.java` | Easy | Recursive DFS: an empty node has depth 0, otherwise the depth is 1 plus the larger of the two subtree depths. O(n) time, O(h) space for the recursion stack. |
 
 
-- Dynamic programming with a rolling two-value state (Fibonacci recurrence)
 
 
 ## File Structure
@@ -55,7 +55,8 @@ Files can include a `main` method with `Scanner` input for local testing and a p
 - Binary tree traversal with recursion
 - Comparing two binary trees node by node with recursion
 - Checking symmetry by pairing mirrored nodes
-
+- Dynamic programming with a rolling two-value state (Fibonacci recurrence)
+- Computing tree height with recursion (1 + max of the two subtrees)
 ## Tech
 
 - Language: Java
