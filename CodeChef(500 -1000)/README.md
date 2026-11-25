@@ -62,6 +62,12 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 48 | Blackjack | Blackjack.java | 681 | finding a missing value, using the constraints to skip a bound check, with a helper method |
 | 49 | Fill Candies | FillCandies.java | 681 | ceiling division with integers |
 | 50 | Finding Square Roots | FindingSquareRoots.java | 420 | `Math.sqrt` with an `(int)` cast to round down |
+| 51 | X Jumps | XJumps.java | 686 | quotient for big jumps, remainder for single steps |
+| 52 | Chessboard Distance | ChessboardDistance.java | 690 | max of two absolute differences |
+| 53 | Valentine is Coming | ValentineIsComing.java | 691 | plain integer division |
+| 54 | It is My Serve | ItIsMyServe.java | 691 | pair up turns with `/ 2`, then check parity with `%` |
+| 55 | Water Mixing | WaterMixing.java | 694 | direction decides which limit applies |
+
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
@@ -81,6 +87,8 @@ New rows are added in batches, only for problems that are marked solved on CodeC
 - Building strings with `StringBuilder`
 - Splitting logic into a helper method outside `main`
 - Built-in math functions with casts
+- Built-in math functions with casts
+
 This list grows only when a new idea comes up, not with every problem.
 
 ---
