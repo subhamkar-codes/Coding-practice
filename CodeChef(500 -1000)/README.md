@@ -67,6 +67,11 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 53 | Valentine is Coming | ValentineIsComing.java | 691 | plain integer division |
 | 54 | It is My Serve | ItIsMyServe.java | 691 | pair up turns with `/ 2`, then check parity with `%` |
 | 55 | Water Mixing | WaterMixing.java | 694 | direction decides which limit applies |
+| 56 | Weights | Weights.java | 697 | check single weights, pairs, and the sum of all three |
+| 57 | Chef and his Apps | ChefAndHisApps.java | 702 | free space first, then delete the larger app; constraints guarantee two deletions always suffice |
+| 58 | Chef Eren | ChefEren.java | 706 | count odd and even positions with `(n + 1) / 2` and `n / 2` |
+| 59 | Minimum number of coins | MinimumNumberOfCoins.java | 711 | -1 unless divisible by 5, otherwise use as many 10s as possible |
+| 60 | Airlines | Airlines.java | 712 | ceiling division for planes needed, clamped at zero |
 
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
@@ -88,6 +93,7 @@ New rows are added in batches, only for problems that are marked solved on CodeC
 - Splitting logic into a helper method outside `main`
 - Built-in math functions with casts
 - Built-in math functions with casts
+- Counting odd and even positions with n / 2 and (n + 1) / 2
 
 This list grows only when a new idea comes up, not with every problem.
 
