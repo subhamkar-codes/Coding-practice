@@ -72,7 +72,11 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 58 | Chef Eren | ChefEren.java | 706 | count odd and even positions with `(n + 1) / 2` and `n / 2` |
 | 59 | Minimum number of coins | MinimumNumberOfCoins.java | 711 | -1 unless divisible by 5, otherwise use as many 10s as possible |
 | 60 | Airlines | Airlines.java | 712 | ceiling division for planes needed, clamped at zero |
-
+| 61 | Self Defence Training | SelfDefenceTraining.java | 716 | count values inside an inclusive range with `&&` |
+| 62 | Cup Finals | CupFinals.java | 716 | compare the gap between two values to a limit |
+| 63 | Too many Floors | TooManyFloors.java | 717 | map a room number to its floor with integer division, then take the difference |
+| 64 | Speed Limit Test | SpeedLimitTest.java | 718 | compare speeds by cross-multiplying instead of dividing |
+| 65 | Decrement OR Increment | DecrementORIncrement.java | 520 | divisibility check with `%` |
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
