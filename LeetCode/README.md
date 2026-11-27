@@ -27,7 +27,7 @@ Solutions to LeetCode problems, solved in Java while building problem-solving sk
 | 100 | Same Tree | solutions/src/P0100_SameTree.java | Easy | Recursive DFS on both trees together: both null is true, only one null or different values is false, otherwise both subtrees must match. O(n) time, O(h) space for the recursion stack. |
 | 101 | Symmetric Tree | solutions/src/P0101_SymmetricTree.java | Easy | Recursive helper compares two subtrees as mirrors: outer pair (left.left, right.right) and inner pair (left.right, right.left). O(n) time, O(h) space for the recursion stack. |
 | 104 | Maximum Depth of Binary Tree | `solutions/src/P0104_MaximumDepth.java` | Easy | Recursive DFS: an empty node has depth 0, otherwise the depth is 1 plus the larger of the two subtree depths. O(n) time, O(h) space for the recursion stack. |
-
+| 110 | Balanced Binary Tree | `solutions/src/P0110_BalancedBinaryTree.java` | Easy | Recursive DFS that returns each subtree's height, or -1 if any subtree is unbalanced. At each node, check that the heights differ by at most 1. One pass: O(n) time, O(h) space for the recursion stack. |
 
 
 
