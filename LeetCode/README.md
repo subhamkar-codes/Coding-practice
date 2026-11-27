@@ -57,6 +57,10 @@ Files can include a `main` method with `Scanner` input for local testing and a p
 - Checking symmetry by pairing mirrored nodes
 - Dynamic programming with a rolling two-value state (Fibonacci recurrence)
 - Computing tree height with recursion (1 + max of the two subtrees)
+- Using a sentinel return value to carry both a height and a failure signal in one recursive pass
+
+
+
 ## Tech
 
 - Language: Java
