@@ -77,6 +77,11 @@ This follows my earlier folder, which covered the 500-rated warm-up set. Here th
 | 63 | Too many Floors | TooManyFloors.java | 717 | map a room number to its floor with integer division, then take the difference |
 | 64 | Speed Limit Test | SpeedLimitTest.java | 718 | compare speeds by cross-multiplying instead of dividing |
 | 65 | Decrement OR Increment | DecrementORIncrement.java | 520 | divisibility check with `%` |
+| 66 | A or B | AOrB.java | 728 | try both attempt orders, compute the total for each, take the larger |
+| 67 | Second Largest | SecondLargest.java | 520 | find the middle of three values |
+| 68 | Pass or Fail | PassOrFail.java | 730 | score is 3 per correct minus 1 per wrong, compare to the pass mark |
+| 69 | Cyclic Quadrilateral | CyclicQuadrilateral.java | 735 | opposite angles must sum to 180 |
+| 70 | Too many items | TooManyItems.java | 738 | ceiling division with integers |
 
 New rows are added in batches, only for problems that are marked solved on CodeChef.
 
